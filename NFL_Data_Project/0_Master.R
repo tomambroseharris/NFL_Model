@@ -1,5 +1,6 @@
 # Master script
 # This script runs all the other scripts in the project
+# Analyst: Tom Harris
 
 
 # Load packages script
